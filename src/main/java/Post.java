@@ -7,6 +7,4 @@ public class Post {
     public boolean subscription;
     public FormDate birthday;
 
-
-
 }
